@@ -53,9 +53,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ImJongHoon.github.io/react-practice2",
+  "homepage": "https://ImJongHoon.github.io/react-practice3",
   "devDependencies": {
     "@types/react-helmet": "^6.1.11"
-  },
-  "hompage": "https://ImJongHoon.github.io/react-practice_2"
+  }
 }
